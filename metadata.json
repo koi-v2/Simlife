@@ -1,0 +1,6 @@
+{
+  "name": "Lini Masa: Simulasi Hidup & Kekayaan",
+  "description": "Simulasi kehidupan berbasis teks yang mendalam dengan manajemen keuangan pribadi, pertumbuhan karier korporat & bisnis, pernikahan, serta strategi investasi properti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
